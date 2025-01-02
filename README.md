@@ -9,7 +9,7 @@
 1. Recurrent Neural Networks and State Space Models
 2. Advanced Dynamic Neural Net 
 3. Introduction to Agent
-4. Multiple Agent Modeling and VectorDB 
+4. Multiple Agent Modeling 
 5. Data Base System
 6. Gen AI Application with Streamlit
 
