@@ -7,10 +7,10 @@
 ### Contents
 
 1. Recurrent Neural Networks and State Space Models
-2. Advanced Dynamic Neural Net
-3. Data Base System
-4. Introduction to Agent
-5. Multiple Agent Modeling and VectorDB
+2. Advanced Dynamic Neural Net 
+3. Introduction to Agent
+4. Multiple Agent Modeling and VectorDB 
+5. Data Base System
 6. Gen AI Application with Streamlit
 
 최종 아웃풋 : streamlit을 이용한 금융 포트폴리오 관리 페이지 만들기
