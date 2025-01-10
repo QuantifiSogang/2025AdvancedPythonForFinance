@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="2025AdvancedPythonForFinance" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="2025AdvancedPythonForFinance" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="FinancialMachineLearning" project-jdk-type="Python SDK" />
 </project>
